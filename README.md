@@ -22,7 +22,7 @@ curl -sSL https://www.skills.sh/install.sh | sh -s -- coreyone/ai-agent-skills
 ## Taxonomy
 
 ```
-├── product/          # Strategy & execution (create-prd, product-management, michael-bolton-rule, swarm-rules)
+├── product/          # Strategy & execution (create-prd, product-management, michael-bolton-rule, swarm-rules, god-marduk)
 ├── design/           # Aesthetic rules, responsive layout, motion, skeletons, empty states
 ├── engineering/      # Code quality, system architecture, resiliency, test-driven dev, tech-stack
 ├── data-and-api/     # REST/GraphQL API design, database schemas, ORM models, caching
