@@ -1,11 +1,11 @@
-# AI Agent Skills
+# Software Maestro
 
-Capability deck for AI IDE agents and assistants. Syncs product strategy, design systems, and engineering execution.
+Capability orchestra for AI IDE agents. Conducts product strategy, design systems, and engineering execution from a single developer baton.
 
 ## Install
 
 ```bash
-curl -sSL https://www.skills.sh/install.sh | sh -s -- coreyone/ai-agent-skills
+curl -sSL https://www.skills.sh/install.sh | sh -s -- coreyone/software-maestro
 ```
 *(Alternative: clone directly to target AI IDE config/skills directory)*
 
