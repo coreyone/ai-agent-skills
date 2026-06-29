@@ -1,18 +1,18 @@
-# Antigravity Skills
+# AI Agent Skills
 
-Cap deck for Antigravity AI IDE. Syncs product, design, and engineering contexts.
+Capability deck for AI IDE agents and assistants (e.g. OpenAI, Anthropic, Antigravity). Syncs product, design, and engineering contexts.
 
 ## Install
 
 Run:
 ```bash
-curl -sSL https://www.skills.sh/install.sh | sh -s -- coreyone/antigravity-skills
+curl -sSL https://www.skills.sh/install.sh | sh -s -- coreyone/ai-agent-skills
 ```
-*(Alternative: clone directly to `~/.gemini/config/skills/`)*
+*(Alternative: clone directly to target AI IDE config/skills directory)*
 
 ## PM Core Rules (First Principles)
 
-*   **Structure > polish**: Confusing models fail. Clean architecture scales; UI updates don't fix broken logic.
+*   **Structure > polish**: Confusing models fail. Clear architecture scales; UI updates don't fix broken logic.
 *   **Decouple or cascade**: Isolate dependencies (API, DB, UI). Timeout early, retry with jitter, circuit-break external integrations. Keep failures local.
 *   **Data = truth**: Standardize event naming (`object:action`). Consolidate namespaces by pushing variations to event properties. Strip PII at boundaries.
 *   **Fallback UX**: Skeletons must match active layout dimensions (spinners increase perceived wait time). Empty states need motivation + CTA. offline actions require auto-caching.
