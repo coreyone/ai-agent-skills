@@ -1,6 +1,6 @@
 ---
 name: web-deployment-rules
-description: Use when configuring web build tools, Docker containers, multi-stage builds, CI/CD pipelines, zero-downtime releases, CDNs, and database migrations.
+description: "Trigger: deployment pipeline, CI CD, Docker builds, DB migrations, expand contract database, Netlify. Scope: Application deployment, multi-stage builds, zero-downtime releases. Boundary: Excludes local editor settings."
 ---
 
 # 🚀 Core Philosophy: Software is not real until it is running in production for real users.

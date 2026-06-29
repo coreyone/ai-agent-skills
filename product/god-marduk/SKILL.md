@@ -1,6 +1,6 @@
 ---
 name: god-marduk
-description: Master orchestration for phased execution, task decomposition, and delivery governance.
+description: "Trigger: project task list, task decomposition, phase planning, master orchestration, delivery governance. Scope: Project sequencing, task checklist creation, operating governance. Boundary: Excludes tactical code debugging."
 ---
 
 # 🪐 God-Marduk: Master Task Orchestrator

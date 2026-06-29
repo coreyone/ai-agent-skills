@@ -1,6 +1,6 @@
 ---
 name: product-management
-description: Use when task matches product-management product guidance for problem framing, PRD quality, and launch narrative.
+description: "Trigger: PM, product tasks, project planning, backlog priority, user stories, ticket scoping. Scope: Product management, task priorities, requirements scoping. Boundary: Excludes writing raw code or designing page layouts."
 ---
 
 # Refined Prompt

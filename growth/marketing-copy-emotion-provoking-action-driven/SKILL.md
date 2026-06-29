@@ -1,6 +1,6 @@
 ---
 name: marketing-copy-emotion-provoking-action-driven
-description: Use when task matches marketing-copy-emotion-provoking-action-driven marketing guidance for clarity, persuasion, and conversion outcomes.
+description: "Trigger: marketing copy, landing text, CTA labels, value proposition, copywriting copy, conversion copy. Scope: Persuasive copy generation, conversion-focused taglines. Boundary: Excludes technical specifications or backend engineering."
 ---
 
 # Marketing Copy Emotion Provoking Action Driven

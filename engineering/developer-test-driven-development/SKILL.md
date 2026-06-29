@@ -1,6 +1,6 @@
 ---
 name: developer-test-driven-development
-description: Use when task matches developer-test-driven-development engineering guidance for architecture, testing, performance, security, and review.
+description: "Trigger: TDD, test first, unit testing, integration tests, mock assertions, test-driven dev. Scope: Writing test assertions before coding features, testing paradigms. Boundary: Excludes UX aesthetics or continuous deployment settings."
 ---
 
 # TEST DRIVEN DEVELOPMENT (TDD)

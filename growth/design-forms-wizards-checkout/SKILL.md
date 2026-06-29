@@ -1,6 +1,6 @@
 ---
 name: design-forms-wizards-checkout
-description: Use when task matches design-forms-wizards-checkout design guidance for IA, usability, responsiveness, systems, motion, and visual QA.
+description: "Trigger: form inputs, wizards, checkout forms, multistep forms, validation UI, input focus. Scope: User-friendly forms design, input constraints, progressive disclosure. Boundary: Excludes backend database schemas or server-side API validation."
 ---
 
 # Forms + Wizards - Checkout Rules (First Principles + Execution)

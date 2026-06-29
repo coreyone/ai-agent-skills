@@ -1,6 +1,6 @@
 ---
 name: developer-security
-description: Use when task matches developer-security engineering guidance for architecture, testing, performance, security, and review.
+description: "Trigger: security rules, credential leaks, auth tokens, input sanitization, threat model. Scope: Software security guidelines, threat prevention, secure data handling. Boundary: Excludes client-side web browser vulnerabilities."
 ---
 
 # 1.1 Vibe Coding Security Fundamentals

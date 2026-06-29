@@ -1,6 +1,6 @@
 ---
 name: swarm-rules
-description: Use when task matches swarm-rules leadership guidance for decision rights, control loops, and team execution.
+description: "Trigger: swarm subagents, parallel agents, race conditions, atomic files, leader follower. Scope: Multi-agent collaboration, task scoping, file race prevention. Boundary: Excludes single-agent operations or code syntax rules."
 ---
 
 # THE SWARM MANIFESTO: PRINCIPLES & TACTICAL RULES

@@ -1,6 +1,6 @@
 ---
 name: michael-bolton-rule
-description: Use when task matches michael-bolton-rule leadership guidance for decision rights, control loops, and team execution.
+description: "Trigger: standard work, deming first, feedback loop checks, decision rights, delegation check. Scope: Engineering operating models, team governance, task feedback loops. Boundary: Excludes direct code implementation or design templates."
 ---
 
 # 🧭 The Manager’s Guide to Direction & Delegation: Philosophy & Tactics

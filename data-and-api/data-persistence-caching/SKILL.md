@@ -1,6 +1,6 @@
 ---
 name: data-persistence-caching
-description: Use when designing database schemas, query optimization, caching layers (Redis, local cache), transaction boundaries, and mobile offline storage sync.
+description: "Trigger: database schema, indexing, cache asidePattern, Redis caching, ORM models, Drizzle schema. Scope: Database query tuning, indexing, and data cache designs. Boundary: Excludes user identity validation."
 ---
 
 # 💾 Core Philosophy: Data is the most valuable asset; protect its integrity and optimize its retrieval.

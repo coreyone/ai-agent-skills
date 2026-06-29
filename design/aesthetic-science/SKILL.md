@@ -1,6 +1,6 @@
 ---
 name: aesthetic-science
-description: Use when task matches aesthetic-science aesthetic guidance for visual systems, style selection, and interface quality.
+description: "Trigger: grid systems, padding, aspect ratio, typographic scale, spacing math, layout proportions. Scope: Mathematically-grounded visual grid systems and micro-spacing rules. Boundary: Excludes semantic SEO, sitemap wayfinding, or functional database CRUD."
 ---
 
 # aesthetic science

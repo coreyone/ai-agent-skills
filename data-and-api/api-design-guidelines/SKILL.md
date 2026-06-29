@@ -1,6 +1,6 @@
 ---
 name: api-design-guidelines
-description: Use when designing REST, GraphQL, or RPC APIs, contract definitions, endpoints, request/response models, and versioning strategies.
+description: "Trigger: REST API, GraphQL schemas, HTTP methods, RFC 7807, endpoint structure, API contracts. Scope: API schema design, error models, request/response structures. Boundary: Excludes client-side visual layouts."
 ---
 
 # 🔌 Core Philosophy: APIs are contracts; once published, they are hard to break.

@@ -1,6 +1,6 @@
 ---
 name: design-review-rules
-description: Use when task matches design-review-rules design guidance for IA, usability, responsiveness, systems, motion, and visual QA.
+description: "Trigger: design review, visual audit, layout inspection, QA checks, screenshot analysis. Scope: Performing design system compliance audits and interface QA. Boundary: Excludes functional unit testing or database indexing."
 ---
 
 # 🧭 The Designer’s Guide to Visual Review  

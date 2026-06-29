@@ -1,6 +1,6 @@
 ---
 name: resiliency-circuit-breakers
-description: Use when designing network clients, fault-tolerant requests, retry loops, fallback strategies, timeouts, and circuit-breaker state machines.
+description: "Trigger: circuit breaker, exponential backoff, jitter delay, connection timeout, API retry. Scope: Client request resiliency, API retries, fault isolation. Boundary: Excludes visual state loading skeletons."
 ---
 
 # 🛡️ Core Philosophy: Assume everything will fail, and design systems that degrade gracefully.

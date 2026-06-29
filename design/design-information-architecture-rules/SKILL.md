@@ -1,6 +1,6 @@
 ---
 name: design-information-architecture-rules
-description: Use when task matches design-information-architecture-rules design guidance for IA, usability, responsiveness, systems, motion, and visual QA.
+description: "Trigger: sitemap, navigation, menu structure, wayfinding, labeling, search facets, routing links. Scope: Visual hierarchies, wayfinding, navigation model, sitemaps. Boundary: Excludes backend route handlers or page performance tuning."
 ---
 
 # Information Architecture (IA) Rules — First Principles + Execution Playbook

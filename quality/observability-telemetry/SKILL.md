@@ -1,6 +1,6 @@
 ---
 name: observability-telemetry
-description: Use when designing structured logging, application telemetry, distributed tracing, metrics, SLIs/SLOs, and user tracking behavior.
+description: "Trigger: structured logging, tracing, telemetry, SLI metrics, SLO alerts, log formats. Scope: Performance metrics, error tracing, production telemetry. Boundary: Excludes client behavioral product funnels."
 ---
 
 # 📊 Core Philosophy: You cannot optimize or debug what you do not measure.

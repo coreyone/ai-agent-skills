@@ -1,6 +1,6 @@
 ---
 name: developer-development-rules
-description: Use when task matches developer-development-rules engineering guidance for architecture, testing, performance, security, and review.
+description: "Trigger: coding style, formatting, linting rules, code comments, file naming, codebase standards. Scope: Engineering best practices, standards, and code styles. Boundary: Excludes UX aesthetics or continuous integration configurations."
 ---
 
 # 🏗️ Core Philosophy: Build small, clear, composable pieces.

@@ -1,6 +1,6 @@
 ---
 name: design-responsive-rules
-description: Use when task matches design-responsive-rules design guidance for IA, usability, responsiveness, systems, motion, and visual QA.
+description: "Trigger: responsive layout, media queries, mobile view, desktop layout, tablet break points, thumb zone. Scope: Multi-device layouts, breakpoints, mobile touch zones. Boundary: Excludes backend API design or database scaling."
 ---
 
 # Responsive Web Design (2025) — Guidelines for Design + Design Engineering

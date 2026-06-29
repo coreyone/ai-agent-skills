@@ -1,6 +1,6 @@
 ---
 name: design-system-rules
-description: Use when task matches design-system-rules design guidance for IA, usability, responsiveness, systems, motion, and visual QA.
+description: "Trigger: design tokens, CSS variables, typography scale, color variables, component themes. Scope: Setting up design systems, component tokens, style variables. Boundary: Excludes layout sitemaps or backend database models."
 ---
 
 # Design System Audit Checklist ✅

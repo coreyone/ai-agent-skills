@@ -1,6 +1,6 @@
 ---
 name: failure-states-empty-states
-description: Use when designing user feedback loops, load fallbacks, skeleton screens, error boundaries, empty states, and offline retry screens.
+description: "Trigger: empty list state, loader skeleton, error boundary layout, offline indicator, system fallback UI. Scope: UI fallback layouts, skeleton placeholders, client recovery views. Boundary: Excludes server-side API error status coding."
 ---
 
 # 🛑 Core Philosophy: How an application handles failure defines the quality of its user experience.

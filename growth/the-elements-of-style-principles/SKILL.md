@@ -1,6 +1,6 @@
 ---
 name: the-elements-of-style-principles
-description: Use when task matches the-elements-of-style-principles marketing guidance for clarity, persuasion, and conversion outcomes.
+description: "Trigger: writing style, copy editing, simple copy, prose check, text clarity. Scope: Writing clear, direct, and concise English copy. Boundary: Excludes code formatting or marketing value propositions."
 ---
 
 # PRINCIPLE I: STRUCTURAL INTEGRITY (The Architecture of Writing)

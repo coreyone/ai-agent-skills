@@ -1,6 +1,6 @@
 ---
 name: developer-web-performance
-description: Use when task matches developer-web-performance engineering guidance for architecture, testing, performance, security, and review.
+description: "Trigger: web performance, slow load, bundle size, lazy loading, LCP, CWV optimization, fetch priority. Scope: Frontend optimization, loading speeds, asset minimization. Boundary: Excludes backend database indexing or visual design systems."
 ---
 
 # ⚡ Performance-First Instructions (Use When Natural)

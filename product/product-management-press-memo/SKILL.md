@@ -1,6 +1,6 @@
 ---
 name: product-management-press-memo
-description: Use when task matches product-management-press-memo product guidance for problem framing, PRD quality, and launch narrative.
+description: "Trigger: press release, PM memo, PRD memo, product launch narrative, launch story. Scope: Writing press releases and future launch stories for project alignment. Boundary: Excludes writing functional code or task tracking."
 ---
 
 # product management press memo

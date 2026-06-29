@@ -1,6 +1,6 @@
 ---
 name: developer-web-security
-description: Use when task matches developer-web-security engineering guidance for architecture, testing, performance, security, and review.
+description: "Trigger: web security, XSS mitigation, secure cookies, CSRF, CSP headers, CORS policies. Scope: Frontend and browser-level security boundaries. Boundary: Excludes operating system file storage permissions."
 ---
 
 # 🛡️ Web Security Hardening: Bot Defense & Attack Mitigation

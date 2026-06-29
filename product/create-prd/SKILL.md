@@ -1,6 +1,6 @@
 ---
 name: create-prd
-description: Use when task matches create-prd product guidance for problem framing, PRD quality, and launch narrative.
+description: "Trigger: PRD, product requirements, spec, problem framing, project scoping, roadmap. Scope: Creating and updating product requirement documents and framing problem scopes. Boundary: Excludes code implementation, design mocks, or CI/CD config."
 ---
 
 # Rule: Generating a Product Requirements Document (PRD)

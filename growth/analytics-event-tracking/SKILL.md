@@ -1,6 +1,6 @@
 ---
 name: analytics-event-tracking
-description: Use when designing user tracking schemes, analytical funnels, event naming structures, metadata tagging, and client-side behavioral logging.
+description: "Trigger: PostHog event, Segment schema, event properties, user funnel track, track taxonomy. Scope: Product behavioral telemetry, user funnel event models. Boundary: Excludes system performance exceptions."
 ---
 
 # 📈 Core Philosophy: Standardized telemetry taxonomy drives actionable product insights.

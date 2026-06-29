@@ -1,6 +1,6 @@
 ---
 name: commerce-ux-rules
-description: Commerce UX framework to improve trust, task completion, and checkout conversion.
+description: "Trigger: shopping cart, checkout conversion, checkout flow, payment trust, pricing layout. Scope: Commerce UX optimization, trust badges, checkout pathways. Boundary: Excludes payment gateway API integrations or backend authentication."
 ---
 
 # Commerce Usability Rules (First Principles + Execution)

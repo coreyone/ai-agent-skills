@@ -1,6 +1,6 @@
 ---
 name: system-architecture-rules
-description: Use when designing software architecture, modularization patterns, layer separation, and dependency management.
+description: "Trigger: clean architecture, hexagonal architecture, domain model, state machine, boundary decoupling. Scope: Software modular design, dependency boundaries, architectural layering. Boundary: Excludes frontend aesthetic styling."
 ---
 
 # 🏗️ Core Philosophy: Architectural integrity enables evolutionary change.

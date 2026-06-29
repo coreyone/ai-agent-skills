@@ -1,6 +1,6 @@
 ---
 name: developer-code-review-rules
-description: Use when task matches developer-code-review-rules engineering guidance for architecture, testing, performance, security, and review.
+description: "Trigger: code review, PR check, refactoring checklist, code quality audit, pull request review. Scope: Architectural, testing, security, and performance review checks. Boundary: Excludes product roadmap planning or UX aesthetic design."
 ---
 
 # 🔍 The Architect's Guide to Code Review: Philosophy & Tactics

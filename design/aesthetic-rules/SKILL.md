@@ -1,6 +1,6 @@
 ---
 name: aesthetic-rules
-description: Use when task matches aesthetic-rules aesthetic guidance for visual systems, style selection, and interface quality.
+description: "Trigger: UI aesthetics, visual system, color palette, dark mode, glassmorphism, design tokens, UI polish. Scope: Visual design systems, theme tokens, styling guidelines. Boundary: Excludes functional engineering, testing, or sitemap layout structure."
 ---
 
 # 🎨 Core Philosophy: Form follows function, beauty emerges from clarity.

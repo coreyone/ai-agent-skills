@@ -1,6 +1,6 @@
 ---
 name: design-animation
-description: Use when task matches design-animation design guidance for IA, usability, responsiveness, systems, motion, and visual QA.
+description: "Trigger: animation, CSS transitions, keyframes, motion curves, micro-interactions, spring curves. Scope: Designing UI animations, state transitions, and interactive motion rules. Boundary: Excludes core application state machines or API fetch logic."
 ---
 
 # ▣ Key takeaway

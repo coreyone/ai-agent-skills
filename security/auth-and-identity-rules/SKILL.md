@@ -1,6 +1,6 @@
 ---
 name: auth-and-identity-rules
-description: Use when designing user authentication, authorization logic, token handling (OAuth 2.1, OIDC, JWT), secure storage, and credential management.
+description: "Trigger: OAuth 2.1, JWT session, Secure cookies, Keychain storage, auth flow, user authentication. Scope: User authentication, session storage, authorization boundaries. Boundary: Excludes generic data caching."
 ---
 
 # 🔑 Core Philosophy: Trust must be earned and constantly verified.

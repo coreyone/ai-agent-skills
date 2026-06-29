@@ -1,6 +1,6 @@
 ---
 name: cro-commerce-audit
-description: CRO audit workflow for diagnosing conversion blockers and prioritizing fixes.
+description: "Trigger: CRO, conversion optimization, checkout friction, user dropoff audit, funnel dropoff. Scope: Diagnosing and auditing checkout and landing page conversion bottlenecks. Boundary: Excludes direct code edits, styling modifications, or analytics database setup."
 ---
 
 # CRO + Commerce UX Auditor Prompt (Expanded Canon Edition)
