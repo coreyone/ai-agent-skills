@@ -5,7 +5,7 @@ Capability orchestra for AI IDE agents. Conducts product strategy, design system
 ## Install
 
 ```bash
-curl -sSL https://www.skills.sh/install.sh | sh -s -- coreyone/software-maestro
+npx skills add coreyone/software-maestro
 ```
 *(Alternative: clone directly to target AI IDE config/skills directory)*
 
